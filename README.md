@@ -4,22 +4,22 @@ We are offering Matomo as a SaaS and it's important for us to contribute back to
 
 ## Our open source plugins
 
-* [ExtraTools](https://plugins.matomo.org/ExtraTools)
-* [TrackerDomain](https://plugins.matomo.org/TrackerDomain)
-* [UserConsole](https://plugins.matomo.org/UserConsole)
-* [BotTracker](https://github.com/digitalist-se/MatomoPlugin-BotTracker)
+- [ExtraTools](https://plugins.matomo.org/ExtraTools)
+- [TrackerDomain](https://plugins.matomo.org/TrackerDomain)
+- [UserConsole](https://plugins.matomo.org/UserConsole)
+- [BotTracker](https://github.com/digitalist-se/MatomoPlugin-BotTracker)
 
 ## Premium plugins
 
-Thses plugins are not open source, and are provided as a subscription from Digitalist. [Please contact us for more information](https://www.digitalist.se/kontakt).
+These plugins are not open source, and are provided as a subscription from Digitalist. [Please contact us for more information](https://www.digitalist.se/kontakt).
 
-* SDG - create reports for the single digital gateway to Your Europe.
-* UserFeedack - create user feedback forms.
+- SDG - create reports for the single digital gateway to Your Europe.
+- UserFeedack - create user feedback forms.
 
 ## Plugin contributions
 
 Some of the plugins we have contributed to:
 
-* [TagManager](https://github.com/matomo-org/tag-manager/)
-* [RerIntranetSubnetwork](https://plugins.matomo.org/RerIntranetSubnetwork)
-* [GroupPermissions](https://plugins.matomo.org/GroupPermissions)
+- [TagManager](https://github.com/matomo-org/tag-manager/)
+- [RerIntranetSubnetwork](https://plugins.matomo.org/RerIntranetSubnetwork)
+- [GroupPermissions](https://plugins.matomo.org/GroupPermissions)
