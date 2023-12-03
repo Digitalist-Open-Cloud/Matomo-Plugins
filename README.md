@@ -23,3 +23,4 @@ Some of the plugins we have contributed to:
 - [TagManager](https://github.com/matomo-org/tag-manager/)
 - [RerIntranetSubnetwork](https://plugins.matomo.org/RerIntranetSubnetwork)
 - [GroupPermissions](https://plugins.matomo.org/GroupPermissions)
+- [AdminNotification](https://plugins.matomo.org/AdminNotification)
