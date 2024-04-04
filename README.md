@@ -7,7 +7,8 @@ We are offering Matomo as a SaaS and it's important for us to contribute back to
 - [ExtraTools](https://plugins.matomo.org/ExtraTools)
 - [TrackerDomain](https://plugins.matomo.org/TrackerDomain)
 - [UserConsole](https://plugins.matomo.org/UserConsole)
-- [BotTracker](https://github.com/digitalist-se/MatomoPlugin-BotTracker)
+- [BotTracker](https://github.com/digitalist-se/BotTracker)
+- [Sentry](https://github.com/digitalist-se/MatomoPlugin-Sentry)
 
 ## Premium plugins
 
