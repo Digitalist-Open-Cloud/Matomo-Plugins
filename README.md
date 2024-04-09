@@ -17,6 +17,7 @@ These plugins are not open source, and are provided as a subscription from Digit
 - SDG - create reports for the single digital gateway to Your Europe.
 - UserFeedack - create user feedback forms.
 - DigiTracking - simplifies the use of Matomo Tag Manager.
+- EngagementTracking
 
 ## Plugin contributions
 
