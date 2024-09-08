@@ -1,6 +1,6 @@
-# Matomo plugins from Digitalist
+# Matomo plugins from Digitalist Open Cloud
 
-We are offering Matomo as a SaaS and it's important for us to contribute back to Matomo. As part of our contributions, we have created, maintaining or contributed to plugins.
+We are offering Matomo as a SaaS and it's important for us to contribute back to Matomo. As part of our contributions, we create, maintaini or contribute to plugins.
 
 ## Our open source plugins
 
@@ -13,7 +13,7 @@ We are offering Matomo as a SaaS and it's important for us to contribute back to
 
 ## Premium plugins
 
-These plugins are not open source, and are provided as a subscription from Digitalist. [Please contact us for more information](https://www.digitalist.se/kontakt).
+These plugins are not open source, and are provided as a subscription from Digitalist. [Please contact us for more information](https://digitalist.cloud/contact).
 
 - UserFeedack - create user feedback forms.
 - DigiTracking - simplifies the use of Matomo Tag Manager.
