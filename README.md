@@ -7,17 +7,18 @@ We are offering Matomo as a SaaS and it's important for us to contribute back to
 - [ExtraTools](https://plugins.matomo.org/ExtraTools)
 - [TrackerDomain](https://plugins.matomo.org/TrackerDomain)
 - [UserConsole](https://plugins.matomo.org/UserConsole)
-- [BotTracker](https://github.com/digitalist-se/BotTracker)
-- [Sentry](https://github.com/digitalist-se/MatomoPlugin-Sentry)
+- [BotTracker](https://plugins.matomo.org/BotTracker)
+- [Sentry](https://plugins.matomo.org/Sentry)
+- [SDG](https://plugins.matomo.org/SDG)
 
 ## Premium plugins
 
 These plugins are not open source, and are provided as a subscription from Digitalist. [Please contact us for more information](https://www.digitalist.se/kontakt).
 
-- SDG - create reports for the single digital gateway to Your Europe.
 - UserFeedack - create user feedback forms.
 - DigiTracking - simplifies the use of Matomo Tag Manager.
 - EngagementTracking
+- DataCleaner Extended - clean out your PII-incidents
 
 ## Plugin contributions
 
